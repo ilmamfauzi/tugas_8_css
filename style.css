@@ -1,0 +1,29 @@
+body {
+  background-image: url("1.jpg");
+}
+
+div {
+  background-color: white;
+  background-image: url("2.jpg");
+  background-repeat: repeat-y;
+  border: 1px solid black;
+  max-width: 500px;
+  max-height: 350px;
+  overflow: scroll;
+}
+
+p {
+  color: blue;
+  text-align: right;
+  font-weight: 900;
+
+}
+
+.dua {
+  color: green;
+  text-align: left;
+}
+
+.tiga {
+  color: red;
+}
